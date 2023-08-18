@@ -15,3 +15,10 @@ example of html element are div, span, h1. example of html attribute are class, 
    iv. img: this is the image element. It is useed to add an image to the webpage.
 
    v. ul, ol, li: This element are used to create list items . the ul is used to create unordered list while the ol is used for ordered list.
+
+6. Semantic element are elemnt that convey meaning and describe the structure of the content the enclose. Examples of sematic element are header, aside, footer, main, nav. The importance of semantic element in webpage seo are the provide code readability and improve structure and meaning of the website. the divide content into different component.
+   
+7. HTML forms are used to input user data and create selection. The associated form controls are elements that allows user to interact with a webpage by providing input. Example of form controls are input fiels, radio buttons and check boxes.
+
+    
+8. comment can be added to HTML by using <!--  -->. Comment are useful for adding information that do not want to be displayed in the webpage and for adding a description for a section of the code.
